@@ -1,4 +1,4 @@
-I have asked Gemini to act as a sentiment analyzer and tell me the message I sent is positive or negative "Today, I received the product and it is not functional, but I still like it!". Afterward, I have analyzed the same comment using machine learning techinques and OPENAI API.
+I have asked Gemini to act as a sentiment analyzer and tell me the message I sent is positive, negative or neutral "*Today, I received the product and it is not functional, but I still like it!*". Afterward, I have analyzed the same comment using machine learning techinques and OPENAI API.
 Let's see.
 
 And here is Gemini's analysis:
